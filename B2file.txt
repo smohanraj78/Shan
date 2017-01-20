@@ -1,0 +1,1 @@
+Test message is added in B2file.txt
